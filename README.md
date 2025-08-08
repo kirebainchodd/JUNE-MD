@@ -8,7 +8,7 @@
 
 <div align="center"> 
   <a href="https://youtube.com/@mr_unique_hacker"> 
-    <img src="[https://files.catbox.moe/198jbu.jpg](https://i.postimg.cc/fbSQqhvz/IMG-20250730-WA0002.jpg)" alt="BOTLA" height="300"> 
+    <img src="(https://i.postimg.cc/fbSQqhvz/IMG-20250730-WA0002.jpg)" alt="BOTLA" height="300"> 
   </a> 
 </div>
 
