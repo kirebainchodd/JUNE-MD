@@ -72,10 +72,10 @@ const store = {
     }
 }
 
-let phoneNumber = "254792021944"
+let phoneNumber = "8801888251584"
 let owner = JSON.parse(fs.readFileSync('./data/owner.json'))
 
-global.botname = "𝐉ᴜɴᴇ 𝐌ᴅ"
+global.botname = "𝙱𝙾𝚃𝙻𝙰"
 global.themeemoji = "•"
 
 const settings = require('./settings')
@@ -243,7 +243,8 @@ async function startXeonBotInc() {
                 text: 
                 `
 ┏❐═⭔ *CONNECTED* ⭔═❐
-┃⭔ *Bot:* JUNE MD
+┃⭔ *Bot:* 𝙱𝙾𝚃𝙻𝙰
+┃⭔ *owner:* 𝐓𝐀𝐍𝐕𝐈𝐑
 ┃⭔ *Time:* ${new Date().toLocaleString()}
 ┃⭔ *Status:* Online
 ┃⭔ *User:* ${botNumber}
@@ -260,12 +261,12 @@ async function startXeonBotInc() {
             });
 
             await delay(1999)
-            console.log(chalk.yellow(`\n\n    ${chalk.bold.blue(`[ ${global.botname || 'KNIGHT BOT'} ]`)}\n\n`))
+            console.log(chalk.yellow(`\n\n    ${chalk.bold.blue(`[ ${global.botname || '𝙱𝙾𝚃𝙻𝙰'} ]`)}\n\n`))
             console.log(chalk.cyan(`< ================================================== >`))
-            console.log(chalk.magenta(`\n${global.themeemoji || '•'} YT CHANNEL: SUPRMELORD`))
-            console.log(chalk.magenta(`${global.themeemoji || '•'} GITHUB: vinpink2`))
+            console.log(chalk.magenta(`\n${global.themeemoji || '•'} YT CHANNEL: 𝐓𝐑𝐒 𝐓𝐀𝐒𝐈𝐍 𝐘𝐓`))
+            console.log(chalk.magenta(`${global.themeemoji || '•'} GITHUB: 𝐚𝐛𝐝𝐭𝐚𝐧𝐯𝐢𝐫`))
             console.log(chalk.magenta(`${global.themeemoji || '•'} WA NUMBER: ${owner}`))
-            console.log(chalk.magenta(`${global.themeemoji || '•'} CREDIT: SUPREMELORD`))
+            console.log(chalk.magenta(`${global.themeemoji || '•'} CREDIT: 𝐓𝐀𝐍𝐕𝐈𝐑`))
             console.log(chalk.green(`${global.themeemoji || '•'} 🤖 Bot Connected Successfully! ✅`))
             console.log(chalk.cyan(`< ================================================== >`))
         }
