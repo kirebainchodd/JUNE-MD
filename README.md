@@ -2,13 +2,13 @@
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Rockwell&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=JUNE-MD;Multi+Device+Whatsapp+Bot;Made+By+TANVIR" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Rockwell&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=𝙱𝙾𝚃𝙻𝙰;Multi+Device+Whatsapp+Bot;Made+By+TANVIR" alt="Typing SVG" />
   </a> 
 </div> 
 
 <div align="center"> 
   <a href="https://youtube.com/@mr_unique_hacker"> 
-    <img src="https://files.catbox.moe/198jbu.jpg" alt="JUNE MD" height="300"> 
+    <img src="[https://files.catbox.moe/198jbu.jpg](https://i.postimg.cc/fbSQqhvz/IMG-20250730-WA0002.jpg)" alt="BOTLA" height="300"> 
   </a> 
 </div>
 
