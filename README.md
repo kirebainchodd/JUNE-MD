@@ -35,7 +35,7 @@
 Briefly explain the project’s purpose and who it’s for.
 
 > Example:  
-> `<project-name>` is a lightweight and modular Node.js boilerplate built for modern web applications. It provides a scalable structure, built-in user authentication, and easy API documentation.
+> `W.A.BOTLA` is a lightweight and modular Node.js boilerplate built for modern web applications. It provides a scalable structure, built-in user authentication, and easy API documentation.
 
 ---
 
@@ -52,7 +52,9 @@ Briefly explain the project’s purpose and who it’s for.
 
 ## 🔧 Installation
 
-Clone the project and install dependencies:
+Clone the project🌀
+Edit Your phone Number in Setting.js❄️ 
+Then Run and enjoy ☃️
 
 ```bash
 git clone https://github.com/<your-username>/<repo-name>.git
