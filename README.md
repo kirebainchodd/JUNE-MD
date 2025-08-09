@@ -2,16 +2,16 @@
 
 > FREE, BAN PROBLEM FIXED BOT
 
-<h1 align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="10">
-    🚀 A WHATSAPP BOT MADE BY TANVIR 🚀
-  </marquee>
-</h1>
+<div align="center"> 
+  <a href="https://git.io/typing-svg"> 
+    <img src="https://readme-typing-svg.demolab.com?font=Rockwell&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=BOTLA;Free+Whatsapp+Bot;Made+By+TANVIR" alt="Typing SVG" />
+  </a> 
+</div>
 
-![GitHub License](https://img.shields.io/github/license/kirebainchodd/W.A.BOTLA)
-![GitHub Stars](https://img.shields.io/github/stars/kirebainchodd/W.A.BOTLA?style=social)
-![GitHub Issues](https://img.shields.io/github/issues/[kirebainchodd/W.A.BOTLA])
-![Last Commit](https://img.shields.io/github/last-commit/kirebainchodd/W.A.BOTLA)
+![GitHub License](https://img.shields.io/github/license/ccxt/ccxt)
+![GitHub Stars](https://img.shields.io/github/stars/ccxt/ccxt?style=social)
+![GitHub Issues](https://img.shields.io/github/issues/ccxt/ccxt)
+![Last Commit](https://img.shields.io/github/last-commit/ccxt/ccxt)
 
 ---
 
