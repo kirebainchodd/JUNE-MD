@@ -57,6 +57,6 @@ Edit Your phone Number in Setting.js❄️
 Then Run and enjoy ☃️
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/kirebainchodd/W.A.BOTLA.git
+cd W.A.BOTLA
 npm install
