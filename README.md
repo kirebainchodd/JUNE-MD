@@ -11,7 +11,7 @@
 ![GitHub License](https://img.shields.io/github/license/ccxt/ccxt)
 ![GitHub Stars](https://img.shields.io/github/stars/ccxt/ccxt?style=social)
 ![GitHub Issues](https://img.shields.io/github/issues/ccxt/ccxt)
-![Last Commit](https://img.shields.io/github/last-commit/ccxt/ccxt)
+![Last Commit](https://img.shields.io/github/last-commit/kirebainchodd/W.A.BOTLA)
 
 ---
 
